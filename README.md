@@ -1,4 +1,4 @@
-# 🔬 PI Randomizer Tool
+# PI Randomizer Tool
 
 **A web-based tool for randomizing Plant Introduction (PI) numbers in plant breeding experiments**
 
