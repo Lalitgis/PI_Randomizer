@@ -8,7 +8,7 @@
 
 The **PI Randomizer** is a professional tool designed to help plant breeders and researchers randomize Plant Introduction (PI) accessions across multiple replications. This tool streamlines the experimental design process by generating randomized PI assignments with unique random values for statistical analysis.
 
-**Developed at:** [Punnuris Lab](#contact) • Fort Valley State University (FVSU)
+**Developed at:** [AIR Lab](#contact) • Fort Valley State University (FVSU)
 
 ---
 
