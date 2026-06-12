@@ -1,17 +1,12 @@
 # PI Randomizer Tool
-
 **A web-based tool for randomizing Plant Introduction (PI) numbers in plant breeding experiments**
-
 ---
-
 ## 📋 Overview
 
 The **PI Randomizer** is a professional tool designed to help plant breeders and researchers randomize Plant Introduction (PI) accessions across multiple replications. This tool streamlines the experimental design process by generating randomized PI assignments with unique random values for statistical analysis.
 
 **Developed at:** [AIR Lab](#contact) • Fort Valley State University (FVSU)
-
 ---
-
 ## ✨ Key Features
 
 - ✅ **Two Replication Support** - Create Rep1 and Rep2 with different randomizations
